@@ -1,0 +1,10 @@
+[package]
+name = "restaurant_register"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "restaurant_register"
+path = "main.rs"
